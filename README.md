@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 My name is Abahor Melad:
-- 🔭 I am currently working on  [fuli.co.ke](fuli.co.ke) (a startup in kenya)<br>
+- 🔭 I am currently working on  [fuli.co.ke](http://fuli.co.ke/) (a startup in kenya)<br>
 - 🌱 I am currently learning fastapi, react<br>
 - 🤝 I am looking for help on [server_encryption_](https://github.com/abahor/server_encryption_)<br>
 - 👨‍💻 All my projects are available on [https://github.com/abahor](https://github.com/abahor)<br>
