@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📝 I share my thoughts on [abahor.pythonanywhere.com](https://abahor.pythonanywhere.com/)   (random thoughts)<br>
 - 💬 Ask me about Python, web<br>
 - 📫 How to reach me [abahormelad@gmail.com](mailto:abahormelad@gmail.com)<br>
-- My interest includes: startups, early stage companies.<br>
+- ⚡ My interest includes: startups, early stage companies.<br>
 
 
 ## 🌐 Socials:
