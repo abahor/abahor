@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I worked on [fundilink.com](http://fundilink.com/) (a startup in kenya)<br>
 -->
 
 # 💫 My name is Abahor Melad:
-- 🔭 I am currently working on  [fuli.co.ke](http://fuli.co.ke/) (a startup in kenya)<br>
-- 🌱 I am currently learning fastapi, react<br>
+- 🌱 I am currently learning Design patterns, Game Theory<br>
 - 🤝 I am looking for help on [server_encryption_](https://github.com/abahor/server_encryption_)<br>
 - 👨‍💻 All my projects are available on [https://github.com/abahor](https://github.com/abahor)<br>
-- 📝 I share my thoughts on [abahor.pythonanywhere.com](https://abahor.pythonanywhere.com/)   (random thoughts)<br>
-- 💬 Ask me about Python, web<br>
+- 📝 I share my thoughts on [X](https://x.com/abahor6)   (random thoughts)<br>
+- 💬 Ask me about Python, Web, Startups<br>
 - 📫 How to reach me [abahormelad@gmail.com](mailto:abahormelad@gmail.com)<br>
 - ⚡ My interest includes: startups, early stage companies.<br>
 
