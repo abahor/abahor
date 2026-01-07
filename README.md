@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 # 💫 My name is Abahor Melad:
 - 🔭 I worked on  [fundilink.com](fundilink.com) (a startup in kenya)<br>
-- 🌱 I am currently learning Complexity Theory and Software Architecture Design Patterns<br>
+- 🌱 I am currently learning Complexity Theory<br>
+- 📖 I love reading (open to recommendation of great books)<br>
 - 👨‍💻 All my projects are available on [https://github.com/abahor](https://github.com/abahor)<br>
 - 📝 I share my thoughts on [abahor.pythonanywhere.com](https://abahor.pythonanywhere.com/)   (random thoughts)<br>
 - 💬 Ask me about Python, Web, Startups<br>
